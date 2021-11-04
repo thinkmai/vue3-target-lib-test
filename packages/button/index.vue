@@ -1,4 +1,3 @@
-/** * * Created by maixing on 2021/10/31 00:24:42 * */
 <template>
   <div>
     {{ count }}
